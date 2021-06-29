@@ -17,6 +17,8 @@ class SecondFragment : Fragment() {
 
     // This property is only valid between onCreateView and
     // onDestroyView.
+    //featureBFirstCommit
+    //featureB2Commit
     private val binding get() = _binding!!
 
     override fun onCreateView(

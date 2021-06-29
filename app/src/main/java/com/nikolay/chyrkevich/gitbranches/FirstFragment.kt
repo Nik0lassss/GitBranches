@@ -17,6 +17,10 @@ class FirstFragment : Fragment() {
 
     // This property is only valid between onCreateView and
     // onDestroyView.
+
+    //testcomment
+    //testcomment2
+    //testcomment3
     private val binding get() = _binding!!
 
     override fun onCreateView(
